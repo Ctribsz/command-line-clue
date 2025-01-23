@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Librarian
 - [ ] The Artist
-- [ ] The Mayor
+- [X] The Mayor
 
 ## Weapons
 - [ ] Garden Shears

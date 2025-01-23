@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Garden Shears
-- [ ] Walking Stick
+    - [X] Walking Stick
 - [X] Heavy Book
 
 ## Notes

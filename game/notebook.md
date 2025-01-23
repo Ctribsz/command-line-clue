@@ -7,8 +7,12 @@
 
 ## Weapons
 - [ ] Garden Shears
-    - [X] Walking Stick
+- [X] Walking Stick
 - [X] Heavy Book
+- [X] Brass Bell
+
+## Crime Scene
+The crime ocurred on the kitchen of the bakery shop
 
 ## Notes
 *Use this space to record your findings and deductions...*

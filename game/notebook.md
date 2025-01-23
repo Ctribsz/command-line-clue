@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Garden Shears
 - [ ] Walking Stick
-- [ ] Heavy Book
+    - [X] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*

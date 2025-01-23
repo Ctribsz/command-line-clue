@@ -4,6 +4,7 @@
 - [X] The Librarian
 - [ ] The Artist
 - [X] The Mayor
+- [X] The Journalist
 
 ## Weapons
 - [ ] Garden Shears

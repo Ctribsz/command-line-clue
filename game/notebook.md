@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
+- [X] The Librarian
 - [ ] The Artist
 - [X] The Mayor
 
 ## Weapons
 - [ ] Garden Shears
 - [ ] Walking Stick
-    - [X] Heavy Book
+- [X] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*
